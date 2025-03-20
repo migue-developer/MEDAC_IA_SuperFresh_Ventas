@@ -1,0 +1,6 @@
+./api/__pycache__/*
+./dashboard/__pycache__/*
+./venv/*
+./*.log
+./*.db
+./.DS_Store
