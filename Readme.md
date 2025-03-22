@@ -69,4 +69,4 @@ Puedes ver la documentación automática de la API en:
 - `./dashboard/dashboard.py`: Archivo donde se definen los métodos para la visualización de la predicción de ventas usando Dash.
 
 
-¡Disfruta desarrollando la clasificación automática de imágenes y ayudando a optimizar la gestión del catálogo de productos en FastRetail! 🚀
+¡Disfruta desarrollando el sistema de predicción de vebtas de SuperFresh! 🚀
